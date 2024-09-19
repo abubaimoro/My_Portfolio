@@ -39,8 +39,11 @@ a {
 }
 
 .hero {
-  background-image: url(./images/316897.jpg);
+  background-image: url(./images/1369947.png);
   height: 100vh;
+  width: 100%;
+  text-align: center;
+  align-items: center;
 }
 
 h1 {
