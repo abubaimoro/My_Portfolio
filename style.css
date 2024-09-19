@@ -138,12 +138,12 @@ h1 {
 }
 
 .work-hrs {
-  border-right: 2px dashed lightgray;
+  border-right: 2px solid lightgray;
   padding-right: 10px;
 }
 
 .fin-proj {
-  border-right: 2px dashed lightgray;
+  border-right: 2px solid lightgray;
   padding-right: 10px;
 }
 
