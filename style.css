@@ -260,6 +260,19 @@ transform: scaleX(1.2);
   width: 400px;
 }
 
+.mest-logo:hover {
+  transform: scaleX(1.1);
+}
+.iiafrica:hover {
+  transform: scaleX(1.1);
+}
+.ibm-logo:hover {
+  transform: scaleX(1.1);
+}
+.forage-logo:hover {
+  transform: scaleX(1.1);
+}
+
 .soft-skills {
   font-weight: bold;
 text-align: center;
