@@ -103,8 +103,10 @@ h1 {
 }
 
 .about-txt {
-  padding-right: 40px;
-  padding-left: 40px;
+  color: white;
+padding: 40px 20px;
+  background-image: url(./images/1338694.png);
+  text-align: center;
 }
 
 .avail {
@@ -252,4 +254,11 @@ transform: scaleX(1.2);
 }
 .iiafrica{
   width: 400px;
+}
+
+.soft-skills {
+  font-weight: bold;
+text-align: center;
+color: white;
+background-color: #24364A;
 }
