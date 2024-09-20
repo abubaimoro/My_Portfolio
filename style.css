@@ -42,8 +42,10 @@ a {
   background-image: url(./images/1369947.png);
   height: 100vh;
   width: 100%;
+  justify-content: center;
   text-align: center;
   align-items: center;
+  align-content: center;
 }
 
 h1 {
