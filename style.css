@@ -265,6 +265,8 @@ transform: scaleX(1.2);
 text-align: center;
 color: white;
 background-color: #24364A;
+background-image: url(./images/559128.jpg);
+margin: 10px auto;
 }
 
 .footer {
